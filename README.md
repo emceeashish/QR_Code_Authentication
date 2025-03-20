@@ -14,6 +14,7 @@ This project classifies QR codes as **original (First Print)** or **counterfeit 
 - **First Print (Original QR Codes):** 100 images  
 - **Second Print (Counterfeit QR Codes):** 100 images  
 - **Train/Test Split:** 70% training, 30% testing for both classes  
+- **Dataset Link:** [Google Drive](https://drive.google.com/drive/folders/1pPeWT1zntlKXnuY_yHmpI-ZzKl4nLgQS?usp=drive_link)  
 
 ## Key Findings  
 - **Feature-based ML models (SVM) performed best.**  
